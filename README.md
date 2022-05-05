@@ -2,7 +2,7 @@
 #### Software Engineer/Full-stack developer
 Software engineer currently based in New York.
 
-Skills: REACT/ NODE / JS / HTML / CSS / C# / PostgresSQL / Express / Git / Unity
+Skills: React / Node / JS / HTML / CSS / C# / PostgresSQL / Express / Git / Unity
 
 
 
