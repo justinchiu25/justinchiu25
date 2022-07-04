@@ -13,5 +13,3 @@ Knowledgeable: HTML5, CSS, Firebase
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/justinchiu25)  
-
