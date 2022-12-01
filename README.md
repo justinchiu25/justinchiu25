@@ -2,9 +2,7 @@
 #### Software Engineer/Full-stack developer
 Software engineer currently based in New York. Excellent problem solver with a passion for technology.
 
-Proficient: Node, Javascript, React / Redux, Git, Express, C#, PostgresSQL
-
-Knowledgeable: HTML5, CSS, Firebase
+Tech Stack: Node, Javascript, React / Redux, Git, Express, C#, PostgresSQL, HTML5, CSS, Firebase
 
 - ⚡ Fun fact: Enjoy game development as a hobby
 - 🌱 Linkedin Profile: [Justin Chiu](https://www.linkedin.com/in/justinchiu25/)
